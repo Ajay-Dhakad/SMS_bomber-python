@@ -17,7 +17,7 @@ elif attacks==3:
 
 
 
-# del_ay=int(input("\nenter SMS delay(seconds) : "))
+# del_ay=int(input("\nenter SMS delay(seconds)
 del_ay=0
 
 while(True):
